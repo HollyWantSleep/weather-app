@@ -1,0 +1,62 @@
+p {
+  font-size: 40px;
+}
+input[type="text"] {
+  border-color: rgb(255, 137, 177);
+  border-radius: 5px;
+  margin-bottom: 90px;
+}
+input[type="submit"] {
+  background-color: #ffffff;
+  border-radius: 40px;
+  border-color: rgb(77, 202, 165);
+  color: rgb(77, 202, 165);
+  padding: 10px 20px;
+  text-decoration: none;
+  margin: 4px 2px;
+  cursor: pointer;
+}
+
+span {
+  font-size: 70px;
+  font-weight: bold;
+  position: relative;
+  top: 20px;
+  right: -60px;
+}
+.full-body {
+  margin-top: 70px;
+  background: linear-gradient(to top, #d5dee7 0%, #ffafbd 0%, #c9ffbf 100%);
+  padding: 50px;
+  border: solid;
+  border-color: rgb(255, 137, 177);
+  font-family: "Mulish", sans-serif;
+}
+
+.location-bar {
+  text-align: center;
+  margin-top: 50px;
+  font-size: 20px;
+}
+
+.current-location {
+  font-weight: bolder;
+  text-align: left;
+  color: #cbfbbf;
+}
+
+.time-date {
+  color: #cbfbbf;
+  text-align: right;
+  opacity: 0.8;
+  font-size: 30px;
+  text-decoration: underline #cbfbbf;
+}
+.card {
+  display: block;
+  margin: 0 auto;
+  padding: 10px;
+}
+.units {
+  font-size: 20px;
+}
